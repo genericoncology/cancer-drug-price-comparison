@@ -45,11 +45,11 @@ Generic medicines play a critical role in improving accessibility and reducing f
 
 ## 📚 Data Sources
 
-This dataset is compiled from:
-- WHO reports
-- Published research studies
-- Publicly available pricing data
-- Market estimates
+- https://pubmed.ncbi.nlm.nih.gov/29069727/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8752537/
+- https://drugdatabase.info/drug-prices/
+
+These sources highlight global variation in cancer drug pricing and affordability.
 
 Note: Prices are indicative and may vary by region, supplier, and treatment plan.
 
