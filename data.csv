@@ -1,1 +1,11 @@
-
+Drug,Brand Price (USD),Generic Price (USD),Savings
+Imatinib,2500,120,95%
+Erlotinib,1800,90,95%
+Gefitinib,1500,80,94%
+Osimertinib,12000,850,92%
+Trastuzumab,8000,600,92%
+Bevacizumab,7000,500,93%
+Nivolumab,9000,700,92%
+Pembrolizumab,10000,750,92%
+Lenalidomide,12000,900,92%
+Sorafenib,6000,400,93%
