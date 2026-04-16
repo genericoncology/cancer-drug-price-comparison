@@ -1,23 +1,69 @@
-# Cancer Drug Price Comparison (Generic vs Branded)
+# Oncology Drug Price Comparison Dataset (Generic vs Branded)
 
-This repository provides a transparent comparison between branded and generic oncology medicines to help patients, caregivers, and healthcare professionals make informed decisions.
+This repository provides a structured comparison of branded and generic oncology drugs, highlighting cost differences and improving transparency in cancer treatment affordability.
 
-## 💊 Why This Matters
-Cancer treatment is often expensive. Generic medicines can significantly reduce treatment costs while maintaining the same efficacy and safety standards.
+## 📊 Dataset Overview
 
-## 📊 Sample Comparison
+This dataset compares commonly used cancer drugs based on:
 
-| Drug Name | Brand Price (USD) | Generic Price (USD) | Savings |
-|----------|------------------|---------------------|--------|
-| Imatinib | $2500/month      | $120/month          | 95%    |
-| Erlotinib| $1800/month      | $90/month           | 95%    |
-| Gefitinib| $1500/month      | $80/month           | 94%    |
+- Brand price (estimated)
+- Generic price (estimated)
+- Percentage savings
 
-## 🌍 Our Mission
-To make life-saving oncology medicines accessible and affordable worldwide.
+| Drug Name     | Brand Price (USD/month) | Generic Price (USD/month) | Savings |
+|--------------|--------------------------|----------------------------|---------|
+| Imatinib     | 2500                     | 120                        | 95%     |
+| Erlotinib    | 1800                     | 90                         | 95%     |
+| Gefitinib    | 1500                     | 80                         | 94%     |
+| Osimertinib  | 12000                    | 850                        | 92%     |
+| Trastuzumab  | 8000                     | 600                        | 92%     |
+| Bevacizumab  | 7000                     | 500                        | 93%     |
 
-## 🔗 Learn More
+## 📈 Key Insights
+
+- Generic oncology drugs can reduce treatment costs by up to **80–95%**
+- Drug pricing varies significantly across countries and healthcare systems
+- High costs remain a major barrier to cancer treatment globally
+
+## 👥 Who This Helps
+
+- Cancer patients seeking affordable options
+- Caregivers and patient advocates
+- Healthcare professionals
+- Researchers studying drug pricing
+
+## 🌍 Global Context
+
+Cancer treatment costs differ widely worldwide. In many low- and middle-income countries, access to affordable medicines remains limited.
+
+Generic medicines play a critical role in improving accessibility and reducing financial burden.
+
+## 📁 Repository Structure
+
+- `data.csv` → Structured dataset
+- `README.md` → Documentation and insights
+
+## 📚 Data Sources
+
+This dataset is compiled from:
+- WHO reports
+- Published research studies
+- Publicly available pricing data
+- Market estimates
+
+Note: Prices are indicative and may vary by region, supplier, and treatment plan.
+
+## 🔄 Future Improvements
+
+- Add more oncology drugs
+- Country-wise price comparison
+- Visual data (charts/graphs)
+- API or simple tool integration
+
+## 🔗 Related Resource
+
 https://genericoncology.com/
 
 ## ⚠️ Disclaimer
-This data is for educational purposes only. Always consult a qualified healthcare professional before making treatment decisions.
+
+This repository is for educational and informational purposes only. It does not provide medical advice. Always consult a qualified healthcare professional for treatment decisions.
